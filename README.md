@@ -1,7 +1,14 @@
-# Student-Database-GUI
+# Student Database with Graphical Interface
 
 
-##
+## Design of an application that serves as a database storing data about students. The graphical interface was created using the QT framework.
+The project includes:
+* Implementation of basic functionalities such as:
+-adding
+-deleting
+-displaying
+-searching 
+* reading and writing entered data in .json format
 
 ## File arrangement in the project:
 ![files](https://github.com/BartlomiejWos/Student-Database-GUI/assets/161388878/9aee919d-b39e-4a07-b04e-3053607a1e79)
