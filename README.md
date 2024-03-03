@@ -19,4 +19,3 @@ adding
 ## Front panel:
 ![ui-](https://github.com/BartlomiejWos/Student-Database-GUI/assets/161388878/bedf0705-82cf-4943-b264-adce5f212f1d)
 
-
