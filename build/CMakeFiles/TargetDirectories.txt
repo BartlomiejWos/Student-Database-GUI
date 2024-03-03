@@ -1,0 +1,9 @@
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/JPO_project_database.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/JPO_project_database_autogen_timestamp_deps.dir
+C:/Users/Asus/Desktop/JPO/build-JPO_project_database-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/JPO_project_database_autogen.dir

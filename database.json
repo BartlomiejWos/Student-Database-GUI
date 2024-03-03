@@ -1,0 +1,48 @@
+{
+         "configuration": [
+                  [
+                           790,
+                           "Bartlomiej",
+                           "Wos",
+                           21,
+                           "WIET",
+                           "EiT",
+                           4,
+                           "bwos790@student.agh.edu.pl",
+                           "full-time studies"
+                  ],
+                  [
+                           690,
+                           "Jan",
+                           "Kowalski",
+                           19,
+                           "WIEiT",
+                           "Informatyka",
+                           2,
+                           "jkowalski690@student.agh.edu.pl",
+                           "full-time studies"
+                  ],
+                  [
+                           590,
+                           "Marcin",
+                           "Kowal",
+                           18,
+                           "WIMiIP",
+                           "Informatyka przemysłowa",
+                           1,
+                           "mkowal590@student.agh.edu.pl",
+                           "full-time studies"
+                  ],
+                  [
+                           490,
+                           "Marta",
+                           "Nowak",
+                           19,
+                           "EAIiIB",
+                           "AiR",
+                           2,
+                           "mnowak490@student.agh.edu.pl",
+                           "part-time studies"
+                  ]
+         ]
+}
