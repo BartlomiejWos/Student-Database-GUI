@@ -4,7 +4,7 @@
 ## Design of an application that serves as a database storing data about students. The graphical interface was created using the QT framework.
 The project includes:
 * Implementation of basic functionalities such as:
-/adding
+adding
 /deleting
 /displaying
 /searching 
